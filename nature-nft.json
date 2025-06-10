@@ -1,0 +1,12 @@
+{
+  "name": "Nature NFT",
+  "symbol": "NATURE",
+  "description": "A beautiful nature image NFT.",
+  "image": "https://raw.githubusercontent.com/Aditya26K/solana-nft/main/nature-2ygv7ssy2k0lxlzu.jpg",
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Nature"
+    }
+  ]
+}
