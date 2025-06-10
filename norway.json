@@ -1,0 +1,12 @@
+{
+  "name": "Norway NFT",
+  "symbol": "NORWAY",
+  "description": "A beautiful image of Norway as an NFT.",
+  "image": "https://raw.githubusercontent.com/Aditya26K/solana-nft/main/norway.jpg",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Norway"
+    }
+  ]
+}
